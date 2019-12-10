@@ -46,7 +46,7 @@ a {
 	border-top: #DEC360 3px solid ;
 }
 .box {
-	width: 1400px;
+	width: 100%;
 	height: 25px;
 	background-color: #DEC360;
 	position: absolute;
